@@ -1,0 +1,11 @@
+<swiper indicator-dots autoplay interval="{{3000}}">
+    <swiper-item>
+        <image src="/images/swiper_1.jpeg"></image>
+    </swiper-item>
+    <swiper-item>
+        <image src="/images/swiper_2.jpeg"></image>
+    </swiper-item>
+    <swiper-item>
+        <image src="/images/swiper_3.jpeg"></image>
+    </swiper-item>
+</swiper>

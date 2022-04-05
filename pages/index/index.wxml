@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <l-avatar l-class="avatar" src="/images/avater.jpg" size="200" />
+  <text class="userinfo">hello, 安否</text>
+  <view class="button-wrapper" bindtap="jumpHomePage">
+    <text class="button">开启你的快乐之旅</text>
+  </view>
+</view>
